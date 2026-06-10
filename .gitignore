@@ -29,4 +29,9 @@ dist-ssr
 *.ntvs*
 *.njsproj
 *.sln
+<<<<<<< HEAD
 *.sw?
+=======
+*.sw?
+public/Videos/
+>>>>>>> ac281994039aebb68afdf4318c618289f4fb7f2c
