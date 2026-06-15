@@ -318,8 +318,12 @@ function Portfolio() {
     { cat:"Beat Cut", title:"Velocity — Product Launch", span:"span4",  video:"/Videos/bahubali.mp4" },
     { cat:"Lyrics", title:"Aurora Campaign", span:"span4",  video:"/Videos/love.mp4" },
     { cat:"Attitude", title:"Cinematic Travel Cut", span:"span4",  video:"/Videos/hardhik.mp4" },
-    { cat:"Team", title:"Lumen — Tech Teaser", span:"span6", video:"/Videos/mumbai.mp4" },
-    { cat:"Elevation", title:"Studio Sessions", span:"span6",  video:"/Videos/salaar.mp4" },
+    { cat:"Transition", title:"Studio Sessions", span:"span6",  video:"/Videos/Bahubali x kalki.mp4" },
+    { cat:"Trailer", title:"Studio Sessions", span:"span6",  video:"/Videos/Ramayana x Adhipurush.mp4" },
+    { cat:"Team", title:"Lumen — Tech Teaser", span:"span6", video:"/Videos/Venkat & Anitha.mp4" },
+    { cat:"Marrige", title:"Studio Sessions", span:"span6",  video:"/Videos/Marrige.mp4" },
+    { cat:"Prabhas", title:"Studio Sessions", span:"span6",  video:"/Videos/Prabhas-Birthday.mp4" },
+    { cat:"Elevation", title:"Studio Sessions", span:"span6",  video:"/Videos/Salaar - Kateramma.mp4" },
   ];
   const photos = [
     { tag:"Portrait", img:"https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=900&q=80" },
@@ -331,6 +335,7 @@ function Portfolio() {
     { tag:"Manipulation", img:"https://images.unsplash.com/photo-1504700610630-ac6aba3536d3?w=900&q=80" },
     { tag:"Social", img:"https://images.unsplash.com/photo-1496317899792-9d7dbcd928a1?w=900&q=80" },
     { tag:"Portrait", img:"https://images.unsplash.com/photo-1545996124-0501ebae84d0?w=900&q=80" },
+    
   ];
   const services = [
     { n:"01", icon:"fa-solid fa-film", title:"Video Editing", desc:"Cinematic cuts, color grading, motion graphics & sound design for reels, shorts and brand films." },
